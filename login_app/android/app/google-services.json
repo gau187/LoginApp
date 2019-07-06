@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426290290236",
+    "firebase_url": "https://login-app-fdbad.firebaseio.com",
+    "project_id": "login-app-fdbad",
+    "storage_bucket": "login-app-fdbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426290290236:android:bbac882b24109fd3",
+        "android_client_info": {
+          "package_name": "com.sample.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426290290236-feis7ho6k89dhjec42r3rpk2f0cmnfit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sample.login_app",
+            "certificate_hash": "658615f6d6352f5cd02703aaeead4c026cfb334e"
+          }
+        },
+        {
+          "client_id": "426290290236-1d0662224949q3u0ed3m5rrnjgpf87do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf1C399emaywoYULWl2KoemnHS9qMpVaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426290290236-1d0662224949q3u0ed3m5rrnjgpf87do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
